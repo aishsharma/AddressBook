@@ -1,0 +1,8 @@
+__pycache__
+env
+bower_components
+node_modules
+*.sublime-project
+*.sublime-workspace
+dist
+.idea
